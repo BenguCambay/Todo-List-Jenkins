@@ -12,7 +12,7 @@ provider "aws" {
   region = "us-east-1"
 }
 variable "key" {
-  default = "jenkins-project"
+  default = "lesson"
 }
 variable "user" {
   default = "techpro"
